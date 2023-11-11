@@ -29,7 +29,6 @@ public class ActivityConsulta extends AppCompatActivity {
     private ArrayAdapter<String> postadapter;
     private String url = "https://jsonplaceholder.typicode.com/posts";
     private Button btnSalvar;
-    private String url2;
     private EditText post;
 
     @SuppressLint({"MissingInflatedId"})
